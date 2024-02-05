@@ -4,6 +4,7 @@ h1 {
 
 p {
     color: white;
+    
 }
 
 p {
@@ -20,7 +21,7 @@ p {
 
 body {
     background: rgb(255,0,0);
-background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,255,255,1) 100%);
+background: radial-gradient(circle, rgba(240,0,0,1) 0%, rgba(255,255,255,1) 100%);
 }
 
 .center {
